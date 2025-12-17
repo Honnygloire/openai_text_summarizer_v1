@@ -1,0 +1,3 @@
+LangChain est une bibliothèque Python qui permet de structurer
+l'utilisation des modèles de langage à travers des chaînes de traitement.
+Elle facilite l'intégration de modèles comme OpenAI dans des applications complexes.
