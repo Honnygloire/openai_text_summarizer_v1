@@ -19,7 +19,7 @@ Cela permet de démontrer la structure et le fonctionnement d’un appel API san
 ```bash
 openai-text-summarizer/
 ├── data.txt #Document texte à résumer
-├── main.py #Script principal avec la logique de résumé
+├── main.py #Script principal avec la logique de OpenAi
 └── README.md #Documentation du projet
 ```
 
